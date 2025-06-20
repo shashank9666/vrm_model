@@ -163,7 +163,7 @@ const Avatar = ({ modelUrl, animationUrl }) => {
     }
   });
 
-  return <group ref={avatarRef} position={[0,0.3,0.2]}/>;
+  return <group ref={avatarRef} position={[0,-0.4,1.4]}/>;
 };
 
 export default Avatar;

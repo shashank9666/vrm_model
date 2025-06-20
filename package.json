@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@pixiv/three-vrm": "^3.4.1",
+    "@pixiv/three-vrm-animation": "^3.4.1",
     "@react-three/drei": "^10.3.0",
     "@react-three/fiber": "^9.1.2",
     "@tailwindcss/vite": "^4.1.10",
